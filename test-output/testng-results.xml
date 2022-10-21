@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-21T12:46:59 IST" name="Default suite" finished-at="2022-10-21T12:47:14 IST" duration-ms="15628">
+    <groups>
+    </groups>
+    <test started-at="2022-10-21T12:46:59 IST" name="Default test" finished-at="2022-10-21T12:47:14 IST" duration-ms="15628">
+      <class name="pajeObjectModel.IMDBPojoClass">
+        <test-method signature="OpenBrowser()[pri:0, instance:pajeObjectModel.IMDBPojoClass@6ed3ccb2]" started-at="2022-10-21T12:46:59 IST" name="OpenBrowser" finished-at="2022-10-21T12:47:13 IST" duration-ms="14920" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method signature="CheckReleaseDate()[pri:1, instance:pajeObjectModel.IMDBPojoClass@6ed3ccb2]" started-at="2022-10-21T12:47:13 IST" name="CheckReleaseDate" finished-at="2022-10-21T12:47:14 IST" duration-ms="232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckReleaseDate -->
+        <test-method signature="CheckReleaseCountryName()[pri:2, instance:pajeObjectModel.IMDBPojoClass@6ed3ccb2]" started-at="2022-10-21T12:47:14 IST" name="CheckReleaseCountryName" finished-at="2022-10-21T12:47:14 IST" duration-ms="230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckReleaseCountryName -->
+        <test-method signature="closeBrowser()[pri:3, instance:pajeObjectModel.IMDBPojoClass@6ed3ccb2]" started-at="2022-10-21T12:47:14 IST" name="closeBrowser" finished-at="2022-10-21T12:47:14 IST" duration-ms="193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- pajeObjectModel.IMDBPojoClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
